@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### A PHP Developer - Symfony by day ☼, Laravel by night ☾
+#### PHP Developer - Symfony by day ☼, Laravel by night ☾
 
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.py`
 - 🚴 I like to fly, sometimes, with my bicycle
